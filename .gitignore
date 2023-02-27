@@ -1,3 +1,32 @@
 *.csproj
 obj
 bin
+# Файлы, созданные Visual Studio
+* _i.c
+* _п.с
+* _ч.ч
+* .илк
+* .мета
+* .объект
+* .iobj
+* .pch
+* .pdb
+* .ipdb
+* .pgc
+* .пгд
+* .рсп
+* .sbr
+* .tlb
+* .tli
+* .tlh
+* .tmp
+* .tmp_proj
+* _wpftmp.csproj
+* .лог
+* .тлог
+* .vspscc
+* .vsscc
+.строит
+* .pidb
+* .svclog
+* .scc
